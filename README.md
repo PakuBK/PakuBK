@@ -1,6 +1,6 @@
 - 👋 Hello World
 - 👀 Unity, C#, Python and JS
-- 🌱 Learning Web Development
+- 🌱 Web Development
 - 💞️ Game Development
 - 📫 paku.develops@gmail.com
 - ⚫ Paku#8476
